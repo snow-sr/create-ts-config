@@ -1,0 +1,19 @@
+{
+  "name": "create-ts-config",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/snow-sr/create-ts-config.git"
+  },
+  "author": "snow-sr",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/snow-sr/create-ts-config/issues"
+  },
+  "homepage": "https://github.com/snow-sr/create-ts-config#readme"
+}
